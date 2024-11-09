@@ -7,6 +7,12 @@ v0.18.0.post0.
 
 ![Alt text](media/sierpinski.gif)
 
+### Sierpinski chaos
+
+Sierpinski triangle constructed using the chaos game. It consist on starting with the midpoint of an equilateral triangle and then at each iteration adding the middle point between that point and a random vertex
+
+![Alt text](media/sierpinski_chaos.gif)
+
 ## Koch curve
 
 ![Alt text](media/koch_curve.gif)
